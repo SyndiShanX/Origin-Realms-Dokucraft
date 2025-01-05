@@ -1,0 +1,8 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "block/leaves/flowering_azalea_leaves",
+        "extra": "block/leaves/azalea_leaves_extra",
+        "snow": "block/leaves/leaves_snow"
+    }
+}

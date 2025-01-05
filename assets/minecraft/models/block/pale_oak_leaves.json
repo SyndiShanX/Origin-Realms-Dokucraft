@@ -1,0 +1,8 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "block/leaves/pale_oak_leaves",
+        "extra": "block/leaves/pale_oak_leaves_extra",
+        "snow": "block/leaves/leaves_snow"
+    }
+}

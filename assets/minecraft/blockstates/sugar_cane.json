@@ -1,0 +1,45 @@
+{
+	"variants": {
+		"age=0": [
+			{ "model": "block/sugar_cane/0" },
+			{ "model": "block/sugar_cane/1" },
+			{ "model": "block/sugar_cane/2" }
+		],
+		"age=1": [
+			{ "model": "custom/plants/ancient/ancient_fern_0" },
+			{ "model": "custom/plants/ancient/ancient_fern_0", "y":90 },
+			{ "model": "custom/plants/ancient/ancient_fern_0", "y":180 },
+			{ "model": "custom/plants/ancient/ancient_fern_0", "y":270 }
+		],
+		"age=2": [
+			{ "model": "custom/plants/ancient/ancient_fern_1" },
+			{ "model": "custom/plants/ancient/ancient_fern_1", "y":90 },
+			{ "model": "custom/plants/ancient/ancient_fern_1", "y":180 },
+			{ "model": "custom/plants/ancient/ancient_fern_1", "y":270 }
+		],
+		"age=3": [
+			{ "model": "custom/plants/ancient/ancient_fern_2" },
+			{ "model": "custom/plants/ancient/ancient_fern_2", "y":90 },
+			{ "model": "custom/plants/ancient/ancient_fern_2", "y":180 },
+			{ "model": "custom/plants/ancient/ancient_fern_2", "y":270 }
+		],
+		"age=4": [
+			{ "model": "custom/plants/ancient/ancient_flower_0" },
+			{ "model": "custom/plants/ancient/ancient_flower_0", "y":90},
+			{ "model": "custom/plants/ancient/ancient_flower_0", "y":180},
+			{ "model": "custom/plants/ancient/ancient_flower_0", "y":270}
+		],
+		"age=5": [
+			{ "model": "custom/plants/ancient/ancient_flower_1" },
+			{ "model": "custom/plants/ancient/ancient_flower_1", "y":90 },
+			{ "model": "custom/plants/ancient/ancient_flower_1", "y":180 },
+			{ "model": "custom/plants/ancient/ancient_flower_1", "y":270 }
+		],
+		"age=6": [
+			{ "model": "custom/plants/ancient/ancient_flower_2" },
+			{ "model": "custom/plants/ancient/ancient_flower_2", "y":90 },
+			{ "model": "custom/plants/ancient/ancient_flower_2", "y":180 },
+			{ "model": "custom/plants/ancient/ancient_flower_2", "y":270 }
+		]
+	}
+}

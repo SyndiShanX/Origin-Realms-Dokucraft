@@ -1,0 +1,303 @@
+{
+	"variants": {
+			"north=false,east=false,south=false,west=false,attached=false,disarmed=false,powered=false": { "model":"custom/ui/empty_button" },
+			"north=true,east=false,south=false,west=false,attached=true,disarmed=true,powered=false": { "model":"custom/ui/empty_button" },
+			
+			"north=false,east=true,south=true,west=true,attached=false,disarmed=true,powered=true": { "model":"custom/aether/natural/plants/cloud_delphinium" },
+			"north=true,east=true,south=true,west=true,attached=false,disarmed=true,powered=true": { "model":"custom/aether/natural/plants/iris" },
+			"north=false,east=false,south=false,west=false,attached=true,disarmed=true,powered=true": { "model":"custom/aether/natural/plants/moon_delphinium" },
+			"north=true,east=false,south=false,west=false,attached=true,disarmed=true,powered=true": { "model":"custom/aether/natural/plants/puff_tuft" },
+			"north=false,east=true,south=false,west=false,attached=true,disarmed=true,powered=true": { "model":"custom/aether/natural/plants/sky_delphinium" },
+			"north=true,east=true,south=false,west=false,attached=true,disarmed=true,powered=true": { "model":"custom/aether/natural/plants/sun_delphinium" },
+			"north=false,east=true,south=true,west=false,attached=true,disarmed=true,powered=true": { "model":"custom/aether/natural/plants/blueberry_bush_empty" },
+			"north=true,east=true,south=true,west=false,attached=true,disarmed=true,powered=true": { "model":"custom/aether/natural/plants/blueberry_bush_full" },
+			"north=true,east=false,south=false,west=true,attached=true,disarmed=true,powered=true": { "model":"custom/aether/minerals/gravitite/gravitite_crystal" },
+			
+			"north=true,east=false,south=false,west=true,attached=false,disarmed=false,powered=false": { "model":"custom/decorations/lamppost_base" },
+			"north=false,east=true,south=false,west=false,attached=true,disarmed=false,powered=false": { "model":"custom/decorations/candle_2" },
+			"north=true,east=true,south=false,west=false,attached=true,disarmed=false,powered=false": { "model":"custom/decorations/tall_torch" },
+			"north=false,east=false,south=true,west=false,attached=true,disarmed=false,powered=false": { "model":"custom/decorations/candle_1" },
+			"north=false,east=true,south=true,west=false,attached=true,disarmed=false,powered=false": { "model":"custom/decorations/2d_cobble_pattern" },
+			"north=false,east=false,south=false,west=true,attached=true,disarmed=false,powered=false": { "model":"custom/decorations/candle_3" },
+			"north=false,east=false,south=false,west=false,attached=false,disarmed=true,powered=false": { "model":"custom/decorations/hay_cover" },
+			
+			"north=true,east=false,south=true,west=true,attached=true,disarmed=true,powered=true": { "model":"custom/furniture/park_bench" },
+			
+			"north=true,east=true,south=false,west=false,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/green/green_crystal" },
+			"north=false,east=false,south=true,west=false,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/green/green_crystal", "x":180 },
+			"north=true,east=false,south=true,west=false,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/blue/blue_crystal" },
+			"north=false,east=true,south=true,west=false,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/blue/blue_crystal", "x":180 },
+			"north=true,east=true,south=true,west=false,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/red/red_crystal" },
+			"north=false,east=false,south=false,west=true,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/red/red_crystal", "x":180 },
+			"north=true,east=false,south=false,west=true,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/orange/orange_crystal" },
+			"north=false,east=true,south=false,west=true,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/orange/orange_crystal", "x":180 },
+			"north=true,east=true,south=false,west=true,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/purple/purple_crystal" },
+			"north=false,east=false,south=true,west=true,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/purple/purple_crystal", "x":180 },
+			"north=true,east=false,south=true,west=true,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/yellow/yellow_crystal" },
+			"north=false,east=true,south=true,west=true,attached=false,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/yellow/yellow_crystal", "x":180 },
+			"north=false,east=true,south=false,west=false,attached=true,disarmed=true,powered=false": { "model":"custom/misc_blocks/ice/frost" },
+			"north=true,east=true,south=true,west=false,attached=true,disarmed=true,powered=false": { "model":"custom/misc_blocks/indev/indev_rose" },
+			"north=false,east=false,south=false,west=true,attached=true,disarmed=true,powered=false": { "model":"custom/misc_blocks/indev/indev_dandelion" },
+			"north=true,east=false,south=false,west=true,attached=true,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/glowstone/glowstone_crystal" },
+			"north=false,east=true,south=false,west=true,attached=true,disarmed=true,powered=false": { "model":"custom/misc_blocks/crystals/glowstone/glowstone_crystal", "x":180 },
+			"north=true,east=true,south=false,west=true,attached=true,disarmed=true,powered=false": { "model":"custom/misc_blocks/earth/ash/ash_cover" },
+			"north=false,east=true,south=false,west=true,attached=false,disarmed=false,powered=true": { "model":"custom/misc_blocks/ice/icicle" },
+			"north=true,east=true,south=false,west=true,attached=false,disarmed=false,powered=true": { "model":"custom/misc_blocks/ice/icicle", "x":180 },
+			"north=false,east=false,south=true,west=true,attached=false,disarmed=false,powered=true": { "model":"custom/misc_blocks/crystals/white/white_crystal" },
+			"north=true,east=false,south=true,west=true,attached=false,disarmed=false,powered=true": { "model":"custom/misc_blocks/crystals/white/white_crystal", "x":180 },
+			
+			"north=true,east=false,south=true,west=false,attached=false,disarmed=false,powered=false": { "model":"custom/plants/cattail_land" },
+			"north=true,east=true,south=true,west=true,attached=false,disarmed=true,powered=false": { "model":"custom/plants/orange_mycena" },
+			"north=true,east=false,south=true,west=false,attached=true,disarmed=true,powered=false": { "model":"custom/plants/bramble" },
+			"north=false,east=true,south=true,west=false,attached=true,disarmed=true,powered=false": { "model":"custom/plants/tall_bramble" },
+			"north=true,east=false,south=false,west=false,attached=false,disarmed=false,powered=true": { "model":"custom/plants/grass_sprouts" },
+			"north=false,east=true,south=false,west=false,attached=false,disarmed=false,powered=true": { "model":"custom/plants/large_orange_mycena" },
+			"north=true,east=true,south=false,west=false,attached=false,disarmed=false,powered=true": { "model":"custom/plants/toxic_mushroom" },
+			"north=false,east=false,south=true,west=false,attached=false,disarmed=false,powered=true": { "model":"custom/plants/toxic_mushroom", "x":180 },
+			"north=true,east=false,south=true,west=false,attached=false,disarmed=false,powered=true": { "model":"custom/plants/moss_hang" },
+			"north=false,east=true,south=true,west=true,attached=false,disarmed=false,powered=true": { "model":"custom/plants/dry_bush" },
+			"north=true,east=true,south=true,west=true,attached=false,disarmed=false,powered=true": { "model":"custom/plants/tall_dry_bush" },
+			"north=true,east=false,south=false,west=false,attached=false,disarmed=true,powered=true": { "model":"custom/plants/tall_dead_bush" },
+			"north=false,east=true,south=false,west=false,attached=false,disarmed=true,powered=true": { "model":"custom/plants/amaryllis" },
+			"north=true,east=true,south=false,west=false,attached=false,disarmed=true,powered=true": { "model":"custom/plants/beach_grass" },
+			"north=false,east=false,south=true,west=false,attached=false,disarmed=true,powered=true": { "model":"custom/plants/pampas" },
+			"north=true,east=false,south=true,west=false,attached=false,disarmed=true,powered=true": { "model":"custom/plants/frosted_grass" },
+			"north=false,east=true,south=true,west=false,attached=false,disarmed=true,powered=true": { "model":"custom/plants/cotton_grass" },
+			"north=true,east=true,south=true,west=false,attached=false,disarmed=true,powered=true": { "model":"custom/plants/hogweed" },
+			"north=false,east=false,south=false,west=true,attached=false,disarmed=true,powered=true": { "model":"custom/plants/tall_hogweed" },
+			"north=true,east=false,south=false,west=true,attached=false,disarmed=true,powered=true": { "model":"custom/plants/oculus_orchid" },
+			"north=false,east=true,south=false,west=true,attached=false,disarmed=true,powered=true": { "model":"custom/plants/peculiar_petunia" },
+			"north=true,east=true,south=false,west=true,attached=false,disarmed=true,powered=true": { "model":"custom/plants/soul_stalks" },
+			"north=false,east=false,south=true,west=true,attached=false,disarmed=true,powered=true": { "model":"custom/plants/tall_soul_stalks" },
+			"north=false,east=true,south=true,west=true,attached=true,disarmed=true,powered=true": { "model":"custom/plants/banana_tree_3" },
+			
+			"north=false,east=false,south=true,west=true,attached=false,disarmed=false,powered=false": { "model":"block/anvil" },
+			"north=false,east=true,south=true,west=false,attached=false,disarmed=false,powered=false": { "model":"block/anvil", "y":90 },
+			"north=false,east=false,south=false,west=false,attached=false,disarmed=false,powered=true": { "model":"block/bookshelf" },
+			"north=false,east=false,south=false,west=false,attached=false,disarmed=true,powered=true": { "model":"block/bookshelf" },
+			"north=false,east=true,south=false,west=false,attached=false,disarmed=true,powered=false": { "model":"block/tripwire_n" },
+			"north=false,east=false,south=true,west=true,attached=true,disarmed=true,powered=false": { "model":"block/tripwire_n" },
+			"north=true,east=false,south=true,west=true,attached=true,disarmed=true,powered=false": { "model":"block/tripwire_n" },
+			"north=false,east=true,south=true,west=true,attached=true,disarmed=true,powered=false": { "model":"block/tripwire_n" },
+			"north=true,east=true,south=true,west=true,attached=true,disarmed=true,powered=false": { "model":"block/tripwire_n" },
+			"north=false,east=true,south=true,west=false,attached=false,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=true,south=true,west=false,attached=false,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=false,south=false,west=true,attached=false,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=false,south=false,west=true,attached=false,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=false,south=false,west=false,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=false,south=false,west=false,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=true,south=false,west=false,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=true,south=false,west=false,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=false,south=true,west=false,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=false,south=true,west=false,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=true,south=true,west=false,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=true,south=true,west=false,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=false,south=false,west=true,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=false,south=false,west=true,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=true,south=false,west=true,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=true,south=false,west=true,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=false,south=true,west=true,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=false,south=true,west=true,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=true,south=true,west=true,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=true,south=true,west=true,attached=true,disarmed=false,powered=true": { "model":"block/tripwire_n" },
+			"north=false,east=false,south=true,west=true,attached=true,disarmed=true,powered=true": { "model":"block/tripwire_n" },
+			"north=true,east=true,south=true,west=true,attached=true,disarmed=true,powered=true": { "model":"block/wheat_stage7" },
+			
+			"north=false,east=true,south=false,west=true,attached=false,disarmed=false,powered=false": [
+				{ "model":"block/cattail/0" },
+				{ "model":"block/cattail/1" },
+				{ "model":"block/cattail/2" },
+				{ "model":"block/cattail/3" }
+			],
+			"north=true,east=false,south=false,west=false,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/fungus_cover" },
+				{ "model":"custom/plants/fungus_cover", "y":90 },
+				{ "model":"custom/plants/fungus_cover", "y":180 },
+				{ "model":"custom/plants/fungus_cover", "y":270 }
+			],
+			"north=false,east=true,south=false,west=false,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/flower_cover_red" },
+				{ "model":"custom/plants/flower_cover_red", "y":90 },
+				{ "model":"custom/plants/flower_cover_red", "y":180 },
+				{ "model":"custom/plants/flower_cover_red", "y":270 }
+			],
+			"north=true,east=true,south=false,west=false,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/flower_cover" },
+				{ "model":"custom/plants/flower_cover", "y":90 },
+				{ "model":"custom/plants/flower_cover", "y":180 },
+				{ "model":"custom/plants/flower_cover", "y":270 }
+			],
+			"north=false,east=false,south=true,west=false,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/flower_cover_pink" },
+				{ "model":"custom/plants/flower_cover_pink", "y":90 },
+				{ "model":"custom/plants/flower_cover_pink", "y":180 },
+				{ "model":"custom/plants/flower_cover_pink", "y":270 }
+			],
+			"north=true,east=true,south=true,west=false,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/lotus_white" },
+				{ "model":"custom/plants/lotus_white", "y":90 },
+				{ "model":"custom/plants/lotus_white", "y":180 },
+				{ "model":"custom/plants/lotus_white", "y":270 }
+			],
+			"north=false,east=false,south=false,west=true,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/flower_cover_blue" },
+				{ "model":"custom/plants/flower_cover_blue", "y":90 },
+				{ "model":"custom/plants/flower_cover_blue", "y":180 },
+				{ "model":"custom/plants/flower_cover_blue", "y":270 }
+			],
+			"north=true,east=true,south=false,west=true,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/small_lily" },
+				{ "model":"custom/plants/small_lily", "y":90 },
+				{ "model":"custom/plants/small_lily", "y":180 },
+				{ "model":"custom/plants/small_lily", "y":270 }
+			],
+			"north=true,east=false,south=true,west=true,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/lotus_pink" },
+				{ "model":"custom/plants/lotus_pink", "y":90 },
+				{ "model":"custom/plants/lotus_pink", "y":180 },
+				{ "model":"custom/plants/lotus_pink", "y":270 }
+			],
+			"north=false,east=true,south=true,west=true,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/lotus_purple" },
+				{ "model":"custom/plants/lotus_purple", "y":90 },
+				{ "model":"custom/plants/lotus_purple", "y":180 },
+				{ "model":"custom/plants/lotus_purple", "y":270 }
+			],
+			"north=true,east=true,south=true,west=true,attached=false,disarmed=false,powered=false":[
+				{ "model":"custom/plants/water_clover" },
+				{ "model":"custom/plants/water_clover", "y":90 },
+				{ "model":"custom/plants/water_clover", "y":180 },
+				{ "model":"custom/plants/water_clover", "y":270 }
+			],
+			"north=false,east=false,south=false,west=false,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/plants/clover_tall" },
+				{ "model":"custom/plants/clover_tall", "y":90 },
+				{ "model":"custom/plants/clover_tall", "y":180 },
+				{ "model":"custom/plants/clover_tall", "y":270 }
+			],
+			"north=true,east=false,south=false,west=false,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/plants/clover" },
+				{ "model":"custom/plants/clover", "y":90 },
+				{ "model":"custom/plants/clover", "y":180 },
+				{ "model":"custom/plants/clover", "y":270 },
+				{ "model":"custom/plants/clover_tall" },
+				{ "model":"custom/plants/clover_tall", "y":90 },
+				{ "model":"custom/plants/clover_tall", "y":180 },
+				{ "model":"custom/plants/clover_tall", "y":270 }
+			],
+			"north=true,east=false,south=true,west=false,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/leaf_pile_fall" },
+				{ "model":"custom/decorations/leaf_pile_fall", "y":90 },
+				{ "model":"custom/decorations/leaf_pile_fall", "y":180 },
+				{ "model":"custom/decorations/leaf_pile_fall", "y":270 }
+			],
+			"north=true,east=true,south=true,west=false,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/rock_2" },
+				{ "model":"custom/decorations/rock_2", "y":90 },
+				{ "model":"custom/decorations/rock_2", "y":180 },
+				{ "model":"custom/decorations/rock_2", "y":270 }
+			],
+			"north=true,east=false,south=false,west=true,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/leaf_pile_spruce" },
+				{ "model":"custom/decorations/leaf_pile_spruce", "y":90 },
+				{ "model":"custom/decorations/leaf_pile_spruce", "y":180 },
+				{ "model":"custom/decorations/leaf_pile_spruce", "y":270 }
+			],
+			"north=false,east=true,south=false,west=true,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/rock_1" },
+				{ "model":"custom/decorations/rock_1", "y":90 },
+				{ "model":"custom/decorations/rock_1", "y":180 },
+				{ "model":"custom/decorations/rock_1", "y":270 }
+			],
+			"north=true,east=true,south=false,west=true,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/pebbles_2" },
+				{ "model":"custom/decorations/pebbles_2", "y":90 },
+				{ "model":"custom/decorations/pebbles_2", "y":180 },
+				{ "model":"custom/decorations/pebbles_2", "y":270 }
+			],
+			"north=false,east=false,south=true,west=true,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/leaf_pile_oak" },
+				{ "model":"custom/decorations/leaf_pile_oak", "y":90 },
+				{ "model":"custom/decorations/leaf_pile_oak", "y":180 },
+				{ "model":"custom/decorations/leaf_pile_oak", "y":270 }
+			],
+			"north=true,east=false,south=true,west=true,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/pebbles_1" },
+				{ "model":"custom/decorations/pebbles_1", "y":90 },
+				{ "model":"custom/decorations/pebbles_1", "y":180 },
+				{ "model":"custom/decorations/pebbles_1", "y":270 }
+			],
+			"north=false,east=true,south=true,west=true,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/rock_3" },
+				{ "model":"custom/decorations/rock_3", "y":90 },
+				{ "model":"custom/decorations/rock_3", "y":180 },
+				{ "model":"custom/decorations/rock_3", "y":270 }
+			],
+			"north=true,east=true,south=true,west=true,attached=true,disarmed=false,powered=false":[
+				{ "model":"custom/decorations/pebbles_3" },
+				{ "model":"custom/decorations/pebbles_3", "y":90 },
+				{ "model":"custom/decorations/pebbles_3", "y":180 },
+				{ "model":"custom/decorations/pebbles_3", "y":270 }
+			],
+			"north=true,east=false,south=false,west=false,attached=false,disarmed=true,powered=false":[
+				{ "model":"custom/decorations/mud_cover" },
+				{ "model":"custom/decorations/mud_cover", "y":90 },
+				{ "model":"custom/decorations/mud_cover", "y":180 },
+				{ "model":"custom/decorations/mud_cover", "y":270 }
+			],
+			"north=false,east=false,south=false,west=false,attached=true,disarmed=true,powered=false":[
+				{ "model":"custom/plants/moss_cover" },
+				{ "model":"custom/plants/moss_cover", "y":90 },
+				{ "model":"custom/plants/moss_cover", "y":180 },
+				{ "model":"custom/plants/moss_cover", "y":270 }
+			],
+			"north=true,east=true,south=false,west=false,attached=true,disarmed=true,powered=false":[
+				{ "model":"custom/decorations/flies" },
+				{ "model":"custom/decorations/flies", "y":90 },
+				{ "model":"custom/decorations/flies", "y":180 },
+				{ "model":"custom/decorations/flies", "y":270 }
+			],
+			"north=false,east=false,south=true,west=false,attached=true,disarmed=true,powered=false":[
+				{ "model":"custom/plants/grimoss_cover" },
+				{ "model":"custom/plants/grimoss_cover", "y":90 },
+				{ "model":"custom/plants/grimoss_cover", "y":180 },
+				{ "model":"custom/plants/grimoss_cover", "y":270 }
+			],
+			"north=true,east=false,south=true,west=true,attached=false,disarmed=true,powered=true":[
+				{ "model":"custom/aether/natural/plants/aether_clover" },
+				{ "model":"custom/aether/natural/plants/aether_clover", "y":90 },
+				{ "model":"custom/aether/natural/plants/aether_clover", "y":180 },
+				{ "model":"custom/aether/natural/plants/aether_clover", "y":270 }
+			],
+			"north=false,east=false,south=true,west=false,attached=true,disarmed=true,powered=true":[
+				{ "model":"custom/aether/natural/plants/moonshroom" },
+				{ "model":"custom/aether/natural/plants/moonshroom", "y":90 },
+				{ "model":"custom/aether/natural/plants/moonshroom", "y":180 },
+				{ "model":"custom/aether/natural/plants/moonshroom", "y":270 }
+			],
+			"north=true,east=false,south=true,west=false,attached=true,disarmed=true,powered=true":[
+				{ "model":"custom/aether/natural/plants/sunshroom" },
+				{ "model":"custom/aether/natural/plants/sunshroom", "y":90 },
+				{ "model":"custom/aether/natural/plants/sunshroom", "y":180 },
+				{ "model":"custom/aether/natural/plants/sunshroom", "y":270 }
+			],
+			"north=false,east=false,south=false,west=true,attached=true,disarmed=true,powered=true":[
+				{ "model":"custom/aether/natural/plants/aether_clover_tall" },
+				{ "model":"custom/aether/natural/plants/aether_clover_tall", "y":90 },
+				{ "model":"custom/aether/natural/plants/aether_clover_tall", "y":180 },
+				{ "model":"custom/aether/natural/plants/aether_clover_tall", "y":270 }
+			],
+			"north=false,east=true,south=false,west=true,attached=true,disarmed=true,powered=true":[
+				{ "model":"custom/plants/dry_grass" },
+				{ "model":"custom/plants/dry_grass", "y":90 },
+				{ "model":"custom/plants/dry_grass", "y":180 },
+				{ "model":"custom/plants/dry_grass", "y":270 }
+			],
+			"north=true,east=true,south=false,west=true,attached=true,disarmed=true,powered=true":[
+				{ "model":"custom/plants/tall_dry_grass" },
+				{ "model":"custom/plants/tall_dry_grass", "y":90 },
+				{ "model":"custom/plants/tall_dry_grass", "y":180 },
+				{ "model":"custom/plants/tall_dry_grass", "y":270 }
+			]
+		 }
+	 }

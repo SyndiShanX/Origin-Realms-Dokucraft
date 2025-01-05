@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"stage=0": { "model":"block/dark_oak_sapling" },
+		"stage=1": { "model":"custom/misc_blocks/saplings/wisteria_sapling" }
+	}
+}
