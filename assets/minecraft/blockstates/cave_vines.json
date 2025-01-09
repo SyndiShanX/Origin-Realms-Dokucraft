@@ -1,7 +1,7 @@
 {
 	"variants": {
-		"age=0,berries=false": {"model": "minecraft:block/cave_vines" },
-		"age=0,berries=true": {"model": "minecraft:block/cave_vines_lit" },
+		"age=0,berries=false": {"model": "minecraft:block/cave_vines/end_unlit" },
+		"age=0,berries=true": {"model": "minecraft:block/cave_vines/end_lit" },
 		"age=1": {"model": "custom/misc_blocks/leaves/wisteria_leaves/blue_wisteria_vine" },
 		"age=2": {"model": "custom/misc_blocks/leaves/wisteria_leaves/pink_wisteria_vine" },
 		"age=3": {"model": "custom/misc_blocks/leaves/wisteria_leaves/purple_wisteria_vine" },
